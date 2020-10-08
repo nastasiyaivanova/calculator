@@ -111,4 +111,4 @@ function calculator(expression) {
     }
     result = numbers[0];
     return result;
-}//sad
+}
